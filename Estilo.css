@@ -1,0 +1,36 @@
+.Fondo {
+  background-image: url(http://wallpaperhd.biz/wp-content/uploads/2013/02/malaysia-paisaje-wallpaper-hd.jpg);
+}
+
+.links {
+  text-align: right;
+}
+
+.links ul li {
+  display: inline;
+}
+
+.logo-airbnb {
+  max-height: 10px;
+  max-width: 20px;
+  width: 12px;
+  height: 12px;
+  text-align: left;
+  display: inline;
+}
+
+
+.boton {
+  margin-left: 300px;
+  background-color: orange;
+}
+
+.alineado {
+
+  display:inline-block;
+}
+
+.alineado-1 {
+
+  display:block;
+}
